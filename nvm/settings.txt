@@ -1,0 +1,2 @@
+root: D:\FoodProject\nvm
+path: D:\FoodProject\nodejs
