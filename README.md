@@ -2,12 +2,6 @@
 
 **Yum Yum** is a beautifully designed food ordering app built with **React Native** and **Firebase**. It allows users to browse meals, add them to a cart, and place orders — all from their mobile device. Simple, elegant, and lightning-fast.
 
-<div align="center">
-  <video src="./assets/app9.mp4" width="300" controls autoplay loop>
-    Your browser does not support the video tag.
-  </video>
-</div>
-
 ---
 
 ## ✨ Features
@@ -27,7 +21,11 @@
 
 Watch the app in action! The video below shows the complete user flow from browsing the menu to placing an order.
 
-https://github.com/yourusername/food-delivery-app/assets/your-repo/app9.mp4
+<div align="center">
+  <video src="./assets/app9.mp4" width="300" controls autoplay loop>
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ---
 
