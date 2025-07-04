@@ -17,15 +17,19 @@
 
 ---
 
-## 🎥 App Demo
+## 📸 Screenshots
 
-Watch the app in action! The video below shows the complete user flow from browsing the menu to placing an order.
+| Menu | Menu (Alt) | Cart |
+|------|------------|------|
+| <img src="assets/app1.jpg" width="200"> | <img src="assets/app2.jpg" width="200"> | <img src="assets/app3.jpg" width="200"> |
 
-<div align="center">
-  <video src="./assets/app9.mp4" width="300" controls autoplay loop>
-    Your browser does not support the video tag.
-  </video>
-</div>
+| Order Summary | Address | Payment |
+|---------------|---------|---------|
+| <img src="assets/app4.jpg" width="200"> | <img src="assets/app5.jpg" width="200"> | <img src="assets/app6.jpg" width="200"> |
+
+| Order Summary (Final) | Confirmation |
+|------------------------|--------------|
+| <img src="assets/app7.jpg" width="200"> | <img src="assets/app8.jpg" width="200"> |
 
 ---
 
